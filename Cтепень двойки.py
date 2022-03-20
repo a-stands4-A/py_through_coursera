@@ -1,5 +1,3 @@
-print('Входные данные:')
-N  = int(input())
+N = int(input())
 
-print('Вывод программы:')
-print(2**N)
+print(2 ** N)

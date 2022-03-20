@@ -1,5 +1,7 @@
-print('Входные данные:')
-# amount = int(input())
-amount = 3
+amount = int(input())
 
-print('\nВывод программы:', '   _~_   '*amount, '  (o o)  '*amount, ' /  V  \\ '*amount, '/(  _  )\\'*amount, '  ^^ ^^  '*amount, sep='\n')
+print('   _~_    '*amount)
+print('  (o o)   '*amount)
+print(' /  V  \\  '*amount)
+print('/(  _  )\\ '*amount)
+print('  ^^ ^^   '*amount)
